@@ -1,0 +1,18 @@
+{
+    "name": "jabed/task-adplay",
+    "description": "Task",
+    "autoload": {
+        "psr-4": {
+            "Jabed\\TaskAdplay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JabedHossainSwe",
+            "email": "jabedhossain.swe@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.11"
+    }
+}
